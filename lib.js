@@ -1,1 +1,3 @@
-console.log("Hello World");
+const saySomething = function(){
+    console.log('something');
+  }
